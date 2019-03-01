@@ -1,1 +1,7 @@
-node_modules
+_notes/
+	css/_notes/
+	js/_notes/
+	vendor/bootstrap/css/_notes/
+	vendor/bootstrap/js/_notes/
+	vendor/jquery-easing/_notes/
+	vendor/jquery/_notes/

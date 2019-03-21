@@ -18,7 +18,7 @@ function getContent() {
                 var className = '';
 
                 data.forEach(function (item) {
-                    if (item.slug === 'home') {
+                    if (item.slug === 'welcome to me') {
                         $("header").html(item.content.rendered);
                     } else {
 
@@ -31,7 +31,7 @@ function getContent() {
                     }
                 });
                 $("#navbarResponsive").html(theMenu + '</ul>');
-                $("main").html(thePage);
+                //$("main").html(thePage);
             }
         },
         error: function () {

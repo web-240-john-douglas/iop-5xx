@@ -56,3 +56,15 @@ inside out project 5xx - STEP-501.0 | Branch 501-0
 "added to each page to allow for easy validation of successful API calls - no content added to the "welcome to me" page - used as parent for API calls
 
 inside out project 5xx - STEP-502.0 | Branch 502-0 README.md file changes - prepended the title to the production site link - added link to GitHub Pages to the top of the content - index.html - code changes https://www.diffchecker.com/TIzg6HtF - code compare shows many changes because of nesting code inside main element - removed comments and cleaned code - added main element and nested all section elements inside of it - added link to fontawesome to bottom of boddy for cog in splash screen - added link to app.js to bottom of boddy created in this step - app.js - created in this step - code changes https://www.diffchecker.com/44lVfHq9
+
+inside out project 5xx - STEP 504-0
+
+- Replaced dummy content with my own 
+- Added pictures inside of the placeholders 
+
+
+
+
+
+
+

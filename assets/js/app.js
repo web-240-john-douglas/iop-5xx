@@ -1,6 +1,6 @@
 // inside out project STEP-502
 
-$("body").prepend('<div class=text-white style=position:fixed;top:0;bottom:0;width:100%;z-index:99999999;padding-top:12%;background-color:rgba(87,87,87,.95);" id="cover-page"><div id="cover-page-con" class="container text-center"style="opacity:100%;"><img alt="John Douglas"class="img-fluid rounded-circle"src=http://via.placeholder.com/150x150><h1>John Douglas</h1><p class=lead>......Graduating College Student &amp; Future Developer....<p class=lead style=font-size:80%><i class="fa-1x fa-cog fa-spin fas"></i> LET\'S GET THIS PARTY STARTED!..</div></div>');
+$("body").prepend('<div class=text-white style=position:fixed;top:0;bottom:0;width:100%;z-index:99999999;padding-top:12%;background-color:rgba(87,87,87,.95);" id="cover-page"><div id="cover-page-con" class="container text-center"style="opacity:100%;"><img alt="John Douglas"class="img-fluid rounded-circle"src=assets/images/john_douglas.jpg><h1>John Douglas</h1><p class=lead>......Graduating College Student &amp; Future Developer....<p class=lead style=font-size:80%><i class="fa-1x fa-cog fa-spin fas"></i> LET\'S GET THIS PARTY STARTED!..</div></div>');
 
 var parentPageID = 164;
 
